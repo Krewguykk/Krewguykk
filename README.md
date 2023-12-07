@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...world domination 
 - 🌱 I’m currently learning ...coding github
 - 💞️ I’m looking to collaborate on ...anything
-- 📫 How to reach me ...
+- 📫 How to reach me ...krewguykk@gmail.com
 
 <!---
 Krewguykk/Krewguykk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
